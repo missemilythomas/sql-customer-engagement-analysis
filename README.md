@@ -1,3 +1,2 @@
 # sql-customer-engagement-analysis
-Investigative SQL analysis exploring factors associated with customer churn.
-[Project 3 — Customer Engagement Analysis (SQL).docx](https://github.com/user-attachments/files/24442001/Project.3.Customer.Engagement.Analysis.SQL.docx)
+[Project 3 — Customer Engagement Analysis (SQL) (1).docx](https://github.com/user-attachments/files/24452231/Project.3.Customer.Engagement.Analysis.SQL.1.docx)
